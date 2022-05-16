@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Kelwin and coding is my language!
 
-## 🤔 About me
+## 🤔 About me 🏳️‍🌈
 - Full stack Web developer for LMTS.
 - Computer Science student at UFAPE, Garahuns, Pernambuco, Brazil.
 
