@@ -40,6 +40,11 @@
           
 </div>
   
+ ## 🐍 Snake
 <div> 
+  
+ 
+
   ![Snake animation](https://github.com/KelwinJonas/KelwinJonas/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
