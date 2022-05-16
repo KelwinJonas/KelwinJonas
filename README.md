@@ -44,7 +44,10 @@
   <img align="center" alt="Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"/>
           
 </div>
-  
+
+### 🎧 Spotify Playing
+[<img src="https://spotify-playing-kelwinjonas.vercel.app/api/now-playing" alt="Kelwin Spotify Playing" width="350" />](https://open.spotify.com/user/31znrr7en3gxpfc5pbajicbriiqy)
+
  ##
 <div> 
  
