@@ -2,8 +2,9 @@
 ### My name is Kelwin and coding is my language!
 
 ## 🤔 About me 🏳️‍🌈
-- Full stack Web developer for LMTS.
-- Computer Science student at UFAPE, Garahuns, Pernambuco, Brazil.
+- Full stack Web developer for Virtual360.
+- Bachelor of Computer Science from UFAPE
+- Pernambuco, Brazil.
 
 <div>
   <a href="https://github.com/KelwinJonas">
